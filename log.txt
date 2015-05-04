@@ -1,0 +1,21 @@
+Start: Tue, 28 Apr 2015 11:16:32 -0800
+End: Tue, 28 Apr 2015 12:35:37 -0800
+Tasks: researched on working with variables in php and creating table for multtable.php
+
+Start: Tue, 28 Apr 2015 15:00:45 -0800
+End: Tue, 28 Apr 2015 16:12:57 -0800
+Tasks: worked on passing parameters through url for multtable and loopback. finished both
+
+
+Start: Wed, 29 Apr 2015 14:25:55 -0800
+End: Wed, 29 Apr 2015 17:23:43 -0800
+Tasks: created html layout for login.php. worked on content1 and content2. tried figuring out
+how to create login status and input validation.
+
+
+Start: Thu, 30 Apr 2015 09:44:31 -0800
+End: Thu, 30 Apr 2015 12:56:16 -0800
+Tasks: continued working on content1 and content 2 trying to switch between the 2. 
+worked on getting number of visits count to work and resetting count on logout.
+
+
